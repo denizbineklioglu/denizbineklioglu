@@ -1,5 +1,5 @@
- <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu.<h1>
-<h3 align="center"> --- I'm trying to be a good developer --- <h3>
+ <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu.</h1>
+<h3 align="center"> --- I'm trying to be a good developer --- </h3>
 
 <!--
 **denizbineklioglu/denizbineklioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
