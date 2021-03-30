@@ -1,6 +1,6 @@
  <h1 algin="center"> Hi there 👋 My name is Deniz.<h1>
 
-                                                         ### I'm trying to be a good developer
+  ### I'm trying to be a good developer
 
 
 <!--
