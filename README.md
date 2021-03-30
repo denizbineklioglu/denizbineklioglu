@@ -10,3 +10,5 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
+ 
+ [![denizbineklioglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbineklioglu)](https://github.com/denizbineklioglu/github-readme-stats)
