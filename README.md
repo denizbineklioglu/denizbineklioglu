@@ -4,9 +4,9 @@
 <!--
 **denizbineklioglu/denizbineklioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on <h3> RENT A CAR PROJECT <h3>re some ideas to get you started:
+- 🔭 I’m currently working on **RENT A CAR PROJECT** 
 
-- 🌱 I’m currently learning C#, ASP.NET Core, SQL Server,PostgreSQL, Object Orianted Programming, Aspect Oriented Programming, SOLID Principle
+- 🌱 I’m currently learning **C#, ASP.NET Core, SQL Server, Object Orianted Programming**
 
 
 
