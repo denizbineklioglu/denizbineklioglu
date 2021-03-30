@@ -1,7 +1,7 @@
  <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu</h1>
  <h2 align="center"> 💻 I'm trying to be a good developer 💻 </h2>
 
-![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
+  ![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
 
 - 🔭 I’m currently working on **RENT A CAR PROJECT** 
 
