@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C# , TYPESCRIPT , ANGULAR
 -
 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
