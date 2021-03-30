@@ -1,6 +1,6 @@
-### Hi there 👋 My name is Deniz.
+                                                          ### Hi there 👋 My name is Deniz.
 
-### I'm trying to be a good developer
+                                                         ### I'm trying to be a good developer
 
 
 <!--
