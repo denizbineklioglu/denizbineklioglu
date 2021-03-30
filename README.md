@@ -1,6 +1,6 @@
- <h1 algin="center"> Hi there 👋 My name is Deniz.<h1>
+ <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu.<h1>
 
-  ### I'm trying to be a good developer
+<h1 align="center"> I'm trying to be a good developer <h1>
 
 
 <!--
