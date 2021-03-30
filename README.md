@@ -14,4 +14,4 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbineklioglu&layout=compact)](https://github.com/denizbineklioglu/github-readme-stats)
  
- ![denizbineklioglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbineklioglu&show_icons=true&theme=dark)
+ ![denizbineklioglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbineklioglu&show_icons=true&theme=tokyonight)
