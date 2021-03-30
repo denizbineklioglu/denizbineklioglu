@@ -12,7 +12,7 @@
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="csharp" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="unity" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbineklioglu&layout=compact)](https://github.com/denizbineklioglu/github-readme-stats)
