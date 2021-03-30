@@ -1,14 +1,17 @@
  <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu.<h1>
 
 <h3 align="center"> --- I'm trying to be a good developer --- <h3>
-  <h4 align="center"> From Turkey <h4>
 
 <!--
 **denizbineklioglu/denizbineklioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on RENT A CAR PROJECT 
+- 🔭 I’m currently working on <h3> RENT A CAR PROJECT <h3>
 -->
 - 🌱 I’m currently learning C#, ASP.NET Core, SQL Server,PostgreSQL, Object Orianted Programming, Aspect Oriented Programming, SOLID Principle
 
