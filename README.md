@@ -1,7 +1,7 @@
  <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu.<h1>
 
-<h3 align="center"> I'm trying to be a good developer <h3>
-
+<h3 align="center"> --- I'm trying to be a good developer --- <h3>
+  <h4 align="center"> From Turkey <h4>
 
 <!--
 **denizbineklioglu/denizbineklioglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
