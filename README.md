@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **C#, ASP.NET Core, SQL Server, Object Orianted Programming,SOLID,AOP**
 
+**Connect with me: **
 <a href="https://www.linkedin.com/in/deniz-bineklioğlu-b92a941b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/deniz-bineklioğlu-b92a941b6/" height="30" width="40" /></a> <a href="https://www.instagram.com/denizbineklioglu/?hl=tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/denizbineklioglu/?hl=tr" height="30" width="40" /></a> 
 
 
