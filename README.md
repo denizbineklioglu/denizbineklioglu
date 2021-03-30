@@ -1,6 +1,6 @@
  <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu.<h1>
 
-<h1 align="center"> I'm trying to be a good developer <h1>
+<h3 align="center"> I'm trying to be a good developer <h3>
 
 
 <!--
