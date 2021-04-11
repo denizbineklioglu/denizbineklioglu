@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RENT A CAR PROJECT** 
 
-- 🌱 I’m currently learning **C#, ASP.NET Core, SQL Server, OOP,SOLID,AOP** <br>
+- 🌱 I’m currently learning **C#, ASP.NET Core,MVC,SQL, OOP,SOLID,AOP** <br>
 
 **Connect with me:** <br>
 
