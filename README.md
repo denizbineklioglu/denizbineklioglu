@@ -3,7 +3,7 @@
 
   ![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
 
-- 🔭 I’m currently working on **RENT A CAR PROJECT** 
+- 🔭 I’m currently working on **MVC PROJECT** 
 
 - 🌱 I’m currently learning **C#, ASP.NET Core,MVC,SQL, OOP,SOLID,AOP** <br>
 
