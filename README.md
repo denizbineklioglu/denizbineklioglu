@@ -1,13 +1,11 @@
  <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu</h1>
- <h2 align="center"> 💻 I'm trying to be a good developer 💻 </h2>
+ <h2 align="center"> 💻 Anti-Dependency 💻 </h2>
 
   ![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
-
-- 🔭 I’m currently working on **MVC PROJECT** 
-
+  
 **Connect with me:** <br>
 
-<a href="https://www.linkedin.com/in/deniz-bineklioğlu-b92a941b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/deniz-bineklioğlu-b92a941b6/" height="30" width="40" /></a> <a href="https://www.instagram.com/denizbineklioglu/?hl=tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/denizbineklioglu/?hl=tr" height="30" width="40" /></a> <br>
+<a href="https://www.linkedin.com/in/deniz-bineklioğlu-b92a941b6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/deniz-bineklioğlu-b92a941b6/" height="30" width="40" /></a>  <br>
 
 **I'm interested in:**
 
