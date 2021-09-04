@@ -1,5 +1,6 @@
- <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu</h1>
- <h2 align="center"> 💻 Anti-Dependency 💻 </h2>
+ <h1 align="center"> Hi there 👋 I'm Deniz Bineklioğlu </h1>
+ <h2 align="center"> I'm trying to be a good Backend Developer </h1>
+ <h3 align="center"> 💻 Anti-Dependency 💻 </h2>
 
   ![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
   
