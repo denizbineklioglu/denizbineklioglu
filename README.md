@@ -1,6 +1,4 @@
- <h1 align="center"> Deniz Bineklioğlu </h1>
-
-  ![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
+![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
   
 **Connect with me:** <br>
 
