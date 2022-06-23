@@ -1,4 +1,4 @@
-                                                            BACKEND DEVELOPER
+                                                       BACKEND DEVELOPER
 
 ![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
   
