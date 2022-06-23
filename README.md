@@ -1,3 +1,6 @@
+<h1> DENİZ BİNEKLİOĞLU </h1>
+<h1> BACKEND DEVELOPER  </h1>
+
 ![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
   
 **Connect with me:** <br>
@@ -7,4 +10,4 @@
  ![denizbineklioglu's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbineklioglu&show_icons=true&theme=merko)
 
 
-<h1> BACKEND DEVELOPER  </h1>
+
