@@ -1,5 +1,5 @@
-<h1> DENİZ BİNEKLİOĞLU </h1>
-<h1> BACKEND DEVELOPER  </h1>
+<h1 style="text-align:center;"> DENİZ BİNEKLİOĞLU </h1>
+<h1 style="text-align:center;"> BACKEND DEVELOPER  </h1>
 
 ![Profile views](https://gpvc.arturio.dev/denizbineklioglu) 
   
