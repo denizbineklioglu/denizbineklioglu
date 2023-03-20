@@ -1,7 +1,7 @@
 
-<h1>Contact<h1>
-Linkedin : https://www.linkedin.com/in/deniz-bineklioğlu/ <br>
-Email    : deniz.bineklioglu@gmail.com 
+<h1>Contact</h1>
+<li> Linkedin : https://www.linkedin.com/in/deniz-bineklioğlu/ </li> 
+<li> Email    : deniz.bineklioglu@gmail.com </li>
 
 
 
